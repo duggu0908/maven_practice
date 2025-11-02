@@ -19,8 +19,4 @@
 </dependency>
 </dependencies>
   
-  <build>
-	<finalName>01_maven_jar</finalName>
-  </build>
-  
 </project>
